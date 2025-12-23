@@ -186,17 +186,17 @@
   <rect x="382" y="586" width="260" height="180" rx="8" fill="url(#grad-low-high)"/>
   <text x="512" y="615" font-family="Microsoft YaHei, Arial, sans-serif" font-size="17" font-weight="bold" fill="#2d3748" text-anchor="middle">🚀 拉AI做实验</text>
   <text x="512" y="635" font-family="Microsoft YaHei, Arial, sans-serif" font-size="16" font-weight="bold" fill="#2d3748" text-anchor="middle">(偷师AI)</text>
-  <text x="512" y="660" font-family="Microsoft YaHei, Arial, sans-serif" font-size="12" fill="#718096" text-anchor="middle" font-style="italic">例：用陌生技术栈制作网站</text>
+  <text x="512" y="660" font-family="Microsoft YaHei, Arial, sans-serif" font-size="12" fill="#718096" text-anchor="middle" font-style="italic">例：用陌生技术栈在本地电脑生成并运行网站</text>
   <text x="512" y="685" font-family="Microsoft YaHei, Arial, sans-serif" font-size="13" fill="#4a5568" text-anchor="middle">→ AI是专家，我从踩坑和</text>
   <text x="512" y="705" font-family="Microsoft YaHei, Arial, sans-serif" font-size="13" fill="#4a5568" text-anchor="middle">爬坑中偷师AI</text>
   
   <!-- 单元格 3-2 -->
   <rect x="644" y="586" width="260" height="180" rx="8" fill="url(#grad-low-medium)"/>
   <text x="774" y="615" font-family="Microsoft YaHei, Arial, sans-serif" font-size="17" font-weight="bold" fill="white" text-anchor="middle">📚 提供材料探索</text>
-  <text x="774" y="635" font-family="Microsoft YaHei, Arial, sans-serif" font-size="16" font-weight="bold" fill="white" text-anchor="middle">(偷师AI)</text>
-  <text x="774" y="660" font-family="Microsoft YaHei, Arial, sans-serif" font-size="12" fill="white" text-anchor="middle" font-style="italic">例：高考志愿填报建议</text>
-  <text x="774" y="685" font-family="Microsoft YaHei, Arial, sans-serif" font-size="13" fill="white" text-anchor="middle">→ 提供具体信息(如十五五</text>
-  <text x="774" y="705" font-family="Microsoft YaHei, Arial, sans-serif" font-size="13" fill="white" text-anchor="middle">规划、孩子兴趣)，让AI分析</text>
+  <text x="774" y="635" font-family="Microsoft YaHei, Arial, sans-serif" font-size="16" font-weight="bold" fill="white" text-anchor="middle">(超越AI)</text>
+  <text x="774" y="660" font-family="Microsoft YaHei, Arial, sans-serif" font-size="12" fill="white" text-anchor="middle" font-style="italic">例：将网站发布上云</text>
+  <text x="774" y="685" font-family="Microsoft YaHei, Arial, sans-serif" font-size="13" fill="white" text-anchor="middle">→ 提供AI不了解的具体信息(如网站在云服务</text>
+  <text x="774" y="705" font-family="Microsoft YaHei, Arial, sans-serif" font-size="13" fill="white" text-anchor="middle">运行出错信息)，让AI分析，从而超越AI</text>
   
   <!-- 单元格 3-3 -->
   <rect x="906" y="586" width="260" height="180" rx="8" fill="url(#grad-low-low)"/>
