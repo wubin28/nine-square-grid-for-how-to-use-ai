@@ -80,23 +80,23 @@
   </defs>
   
   <!-- 背景 -->
-  <rect width="1280" height="1400" fill="url(#bgGradient)"/>
+  <rect width="1280" height="1100" fill="url(#bgGradient)"/>
   
   <!-- 白色容器 -->
   <rect x="40" y="40" width="1200" height="1020" rx="20" fill="white" filter="url(#shadow)"/>
   
   <!-- 标题 -->
   <text x="640" y="100" font-family="Microsoft YaHei, Arial, sans-serif" font-size="32" font-weight="bold" fill="#2d3748" text-anchor="middle">
-    🎯 从看笑话到摸石头：我与AI协作策略九宫格 v1.0
+    🎯 从一旁看笑话到一起摸石头：我与AI协作策略九宫格 v1.0
   </text>
   
   <!-- Y轴标签 -->
-  <text x="100" y="650" font-family="Microsoft YaHei, Arial, sans-serif" font-size="16" font-weight="bold" fill="#4a5568" text-anchor="middle" transform="rotate(-90 100 600)">
+  <text x="-200" y="550" font-family="Microsoft YaHei, Arial, sans-serif" font-size="16" font-weight="bold" fill="#4a5568" text-anchor="middle" transform="rotate(-270 100 600)">
     我对任务的掌握程度 →
   </text>
   
   <!-- X轴标签 -->
-  <text x="340" y="800" font-family="Microsoft YaHei, Arial, sans-serif" font-size="16" font-weight="bold" fill="#4a5568" text-anchor="middle">
+  <text x="340" y="140" font-family="Microsoft YaHei, Arial, sans-serif" font-size="16" font-weight="bold" fill="#4a5568" text-anchor="middle">
     AI对任务的掌握程度 →
   </text>
   
@@ -136,11 +136,11 @@
   
   <!-- 单元格 1-2 -->
   <rect x="644" y="222" width="260" height="180" rx="8" fill="url(#grad-high-medium)"/>
-  <text x="774" y="255" font-family="Microsoft YaHei, Arial, sans-serif" font-size="18" font-weight="bold" fill="#2d3748" text-anchor="middle">📝 考察AI（超越AI）</text>
+  <text x="774" y="255" font-family="Microsoft YaHei, Arial, sans-serif" font-size="18" font-weight="bold" fill="#2d3748" text-anchor="middle">📝 考察AI</text>
   <text x="774" y="280" font-family="Microsoft YaHei, Arial, sans-serif" font-size="12" fill="#718096" text-anchor="middle" font-style="italic">例：我已知解法的</text>
   <text x="774" y="295" font-family="Microsoft YaHei, Arial, sans-serif" font-size="12" fill="#718096" text-anchor="middle" font-style="italic">高中数学集合问题</text>
   <text x="774" y="320" font-family="Microsoft YaHei, Arial, sans-serif" font-size="13" fill="#4a5568" text-anchor="middle">→ 提供背景信息和指导</text>
-  <text x="774" y="340" font-family="Microsoft YaHei, Arial, sans-serif" font-size="13" fill="#4a5568" text-anchor="middle">超越得不到全面信息和指导的AI</text>
+  <text x="774" y="340" font-family="Microsoft YaHei, Arial, sans-serif" font-size="13" fill="#4a5568" text-anchor="middle">挑选适用的AI</text>
   
   <!-- 单元格 1-3 -->
   <rect x="906" y="222" width="260" height="180" rx="8" fill="url(#grad-high-low)"/>
@@ -187,24 +187,25 @@
   <text x="512" y="615" font-family="Microsoft YaHei, Arial, sans-serif" font-size="17" font-weight="bold" fill="#2d3748" text-anchor="middle">🚀 拉AI做实验</text>
   <text x="512" y="635" font-family="Microsoft YaHei, Arial, sans-serif" font-size="16" font-weight="bold" fill="#2d3748" text-anchor="middle">(偷师AI)</text>
   <text x="512" y="660" font-family="Microsoft YaHei, Arial, sans-serif" font-size="12" fill="#718096" text-anchor="middle" font-style="italic">例：用陌生技术栈在本地电脑生成并运行网站</text>
-  <text x="512" y="685" font-family="Microsoft YaHei, Arial, sans-serif" font-size="13" fill="#4a5568" text-anchor="middle">→ AI是专家，我从踩坑和</text>
-  <text x="512" y="705" font-family="Microsoft YaHei, Arial, sans-serif" font-size="13" fill="#4a5568" text-anchor="middle">爬坑中偷师AI</text>
+  <text x="512" y="685" font-family="Microsoft YaHei, Arial, sans-serif" font-size="13" fill="#4a5568" text-anchor="middle">→ AI是专家，我从踩坑和爬坑中偷师AI</text>
+  <text x="512" y="705" font-family="Microsoft YaHei, Arial, sans-serif" font-size="13" fill="#4a5568" text-anchor="middle">拆未知为小假设并做实验分而治之</text>
   
   <!-- 单元格 3-2 -->
   <rect x="644" y="586" width="260" height="180" rx="8" fill="url(#grad-low-medium)"/>
-  <text x="774" y="615" font-family="Microsoft YaHei, Arial, sans-serif" font-size="17" font-weight="bold" fill="white" text-anchor="middle">📚 提供材料探索</text>
+  <text x="774" y="615" font-family="Microsoft YaHei, Arial, sans-serif" font-size="17" font-weight="bold" fill="white" text-anchor="middle">📚 提供AI不了解的实验结果</text>
   <text x="774" y="635" font-family="Microsoft YaHei, Arial, sans-serif" font-size="16" font-weight="bold" fill="white" text-anchor="middle">(超越AI)</text>
   <text x="774" y="660" font-family="Microsoft YaHei, Arial, sans-serif" font-size="12" fill="white" text-anchor="middle" font-style="italic">例：将网站发布上云</text>
-  <text x="774" y="685" font-family="Microsoft YaHei, Arial, sans-serif" font-size="13" fill="white" text-anchor="middle">→ 提供AI不了解的具体信息</text>
-  <text x="774" y="705" font-family="Microsoft YaHei, Arial, sans-serif" font-size="13" fill="white" text-anchor="middle">(如网站在云服务运行出错信息)</text>
-  <text x="774" y="730" font-family="Microsoft YaHei, Arial, sans-serif" font-size="13" fill="white" text-anchor="middle">超越得不到全面信息和指导的AI</text>
+  <text x="774" y="685" font-family="Microsoft YaHei, Arial, sans-serif" font-size="13" fill="white" text-anchor="middle">→ 拆未知为小假设并做实验分而治之</text>
+  <text x="774" y="705" font-family="Microsoft YaHei, Arial, sans-serif" font-size="13" fill="white" text-anchor="middle">提供AI不了解的实验结果</text>
+  <text x="774" y="725" font-family="Microsoft YaHei, Arial, sans-serif" font-size="13" fill="white" text-anchor="middle">超越得不到实验结果的AI</text>
   
   <!-- 单元格 3-3 -->
   <rect x="906" y="586" width="260" height="180" rx="8" fill="url(#grad-low-low)"/>
   <text x="1036" y="625" font-family="Microsoft YaHei, Arial, sans-serif" font-size="18" font-weight="bold" fill="#2d3748" text-anchor="middle">💭 共同摸石头过河</text>
   <text x="1036" y="650" font-family="Microsoft YaHei, Arial, sans-serif" font-size="12" fill="#718096" text-anchor="middle" font-style="italic">例：探索前沿领域</text>
   <text x="1036" y="680" font-family="Microsoft YaHei, Arial, sans-serif" font-size="13" fill="#4a5568" text-anchor="middle">→ 双方都不熟悉，</text>
-  <text x="1036" y="700" font-family="Microsoft YaHei, Arial, sans-serif" font-size="13" fill="#4a5568" text-anchor="middle">一起试错学习</text>
+  <text x="1036" y="700" font-family="Microsoft YaHei, Arial, sans-serif" font-size="13" fill="#4a5568" text-anchor="middle">拆未知为小假设并做实验分而治之</text>
+  <text x="1036" y="720" font-family="Microsoft YaHei, Arial, sans-serif" font-size="13" fill="#4a5568" text-anchor="middle">一起试错学习</text>
   
   <!-- 图例说明区域 -->
   <rect x="180" y="820" width="986" height="180" rx="12" fill="#f7fafc"/>
@@ -217,15 +218,19 @@
   </text>
   
   <text x="200" y="910" font-family="Microsoft YaHei, Arial, sans-serif" font-size="14" fill="#4a5568">
-    <tspan font-weight="bold">关键思维：</tspan>不是所有任务都需要AI，也不是所有任务AI都能胜任——找到双方能力的最佳结合点
+    <tspan font-weight="bold">面对未知：</tspan>拆未知为小假设并做实验，根据实验结果向“分而治之”方向调整
   </text>
   
   <text x="200" y="940" font-family="Microsoft YaHei, Arial, sans-serif" font-size="14" fill="#4a5568">
+    <tspan font-weight="bold">关键思维：</tspan>不是所有任务都需要AI，也不是所有任务AI都能胜任——找到双方能力的最佳结合点
+  </text>
+  
+  <text x="200" y="970" font-family="Microsoft YaHei, Arial, sans-serif" font-size="14" fill="#4a5568">
     <tspan font-weight="bold">实战技巧：</tspan>快速评估任务→定位矩阵位置→采用对应策略→在实践中不断调整优化
   </text>
   
   <!-- 作者署名 -->
-  <text x="1150" y="1030" font-family="Microsoft YaHei, Segoe UI, Arial, sans-serif" font-size="11" fill="#000000" opacity="0.7" text-anchor="end">
+  <text x="1150" y="800" font-family="Microsoft YaHei, Segoe UI, Arial, sans-serif" font-size="11" fill="#000000" opacity="0.7" text-anchor="end">
     大厨程序员吾真本，2025.12.23
   </text>
 </svg>
